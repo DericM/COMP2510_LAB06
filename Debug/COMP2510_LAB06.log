@@ -1,0 +1,17 @@
+﻿  COMP2510_LAB06.c
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(40): warning C4047: 'function': 'record *' differs in levels of indirection from 'record **'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(40): warning C4024: 'input_record': different types for formal and actual parameter 1
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(42): warning C4047: 'function': 'const record *' differs in levels of indirection from 'record **'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(42): warning C4024: 'print_record': different types for formal and actual parameter 1
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(67): warning C4477: 'sscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(67): warning C4778: 'sscanf' : unterminated format string '%'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(67): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(108): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(108): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+c:\users\deric\workspace\comp2510_lab06\comp2510_lab06.c(98): warning C4715: 'input_record': not all control paths return a value
+  COMP2510_LAB06.vcxproj -> C:\Users\Deric\workspace\Debug\COMP2510_LAB06.exe
